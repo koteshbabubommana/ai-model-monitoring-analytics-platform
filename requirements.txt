@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+pandas
+scikit-learn
+sqlalchemy
+psycopg2-binary
+prometheus-client
+pytest
+httpx
+python-json-logger
